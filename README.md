@@ -1,7 +1,9 @@
 # Data_JCNetal2023
 Available data for paper Stochastic processes and changes in evolutionary rate drive diversification in a lineage of tropical hard pines (Pinus)
 
-This repository contains seven files *.fasta, the file Concat161genes.fasta (71532 pb) is the file to estimate statistics of genetic diversity, genetic structure and statistics of site frequency spectrum. The rest of files are used to estimate Relative ratio test, Branch model and Branch site model.
+This repository contains nine files *.fasta, the file Concat161genes.fasta (71532 pb) is the file to estimate statistics of genetic diversity, genetic structure and statistics of site frequency spectrum. 
+The file Concat389gen.fasta is the raw concatenated for PCA and network analysis, the file Concat389genfilt.VCF was obtained after MAF 0.05 and missing data below 0.6
+The rest of files are used to estimate Relative ratio test, Branch model and Branch site model.
 
 These are the codes following by species names
 RBRIG_rigi P rigida TN
